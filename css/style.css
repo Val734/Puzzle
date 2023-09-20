@@ -1,0 +1,11 @@
+﻿body 
+{
+    font-family: 'Segoe UI', Calibri, Arial;
+    margin:0;
+}
+
+#puzzle
+{
+	float:left;
+	padding-right:20px;
+}
